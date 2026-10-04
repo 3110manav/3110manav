@@ -12,19 +12,34 @@ Currently exploring the intersection of **Full-Stack Development, Generative AI,
 
 ---
 
-### ⚡ What I work with
+## 🛠️ Tech Stack
 
-**Frontend**
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Redux` · `Zustand`
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+</p>
 
-**Backend**
-`Node.js` · `Express.js` · `NestJS` · `REST APIs` · `MySQL` · `PostgreSQL` · `MongoDB`
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+</p>
 
-**AI / GenAI**
-`LLM APIs` · `LangChain` · `RAG` · `Vector Databases` · `Agentic AI` · `MCP` · `Prompt Engineering`
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-**Cloud & DevOps**
-`AWS` · `Docker` · `CI/CD` · `Nginx` · `Vercel`
+### AI / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LLMs` · `RAG` · `LangChain` · `Agentic AI` · `MCP` · `Vector Databases` · `Embeddings` · `AI Agents`
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,git,github" />
+</p>
 
 ---
 
