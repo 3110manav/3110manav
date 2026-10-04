@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-header.png" alt="Manav Doshi — Full-Stack Engineer & AI Engineering" width="100%" />
+</p>
+
 # Hey, I'm Manav 👋
 
 ### Software Developer · Full-Stack · AI Engineering
